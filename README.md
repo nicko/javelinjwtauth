@@ -2,6 +2,9 @@
 
 Note: this is not production worthy and was built as an example for a blog post.
 
+    
+[![Known Vulnerabilities](https://snyk.io/test/github/nicko/javelinjwtauth/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/nicko/javelinjwtauth?targetFile=pom.xml)
+
 ## Data Model
 
 Application
